@@ -9,7 +9,8 @@ I am a Software Engineering graduate from **Abbottabad University of Science and
 | Project | What it shows |
 |---|---|
 | [Agentic Marketer](https://github.com/alitanoli26/agentic-marketer-android) | Kotlin, MVVM, Firebase, Gemini, Hugging Face, testing |
-| [JavaScript Mini Lab](https://github.com/alitanoli26/javascript-mini-lab) | DOM logic, state updates, browser APIs, responsive UI |
+| [JavaScript Projects](https://github.com/alitanoli26/javascript-projects) | Calculator, todo app, color palette, DOM logic, browser APIs |
+| [HTML & CSS Projects](https://github.com/alitanoli26/html-css-projects) | Landing pages, profile card, pricing, responsive layouts |
 | [Python Student Toolkit](https://github.com/alitanoli26/python-student-toolkit) | CLI design, validation, functions, CSV file handling |
 | [Teknefy AI/ML](https://github.com/alitanoli26/Teknefy-Ai-Ml) | Python learning path, notebooks, data and ML practice |
 
