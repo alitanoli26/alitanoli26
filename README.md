@@ -10,7 +10,6 @@ I am a Software Engineering graduate from **Abbottabad University of Science and
 |---|---|
 | [Agentic Marketer](https://github.com/alitanoli26/agentic-marketer-android) | Kotlin, MVVM, Firebase, Gemini, Hugging Face, testing |
 | [JavaScript Mini Lab](https://github.com/alitanoli26/javascript-mini-lab) | DOM logic, state updates, browser APIs, responsive UI |
-| [Responsive Developer Portfolio](https://github.com/alitanoli26/responsive-developer-portfolio) | Semantic HTML, CSS layout, typography, accessibility |
 | [Python Student Toolkit](https://github.com/alitanoli26/python-student-toolkit) | CLI design, validation, functions, CSV file handling |
 | [Teknefy AI/ML](https://github.com/alitanoli26/Teknefy-Ai-Ml) | Python learning path, notebooks, data and ML practice |
 
@@ -25,6 +24,5 @@ I prefer small, testable steps: define the problem, build the smallest useful fl
 ## Contact
 
 - GitHub: [@alitanoli26](https://github.com/alitanoli26)
-- Portfolio: [alihportfoli-yuofhxkb.manus.space](https://alihportfoli-yuofhxkb.manus.space)
 
 > Open to practical software problems, collaborative learning, and entry-level engineering opportunities.
